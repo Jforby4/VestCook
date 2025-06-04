@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=OrdreLinje
+comment1.params=produkt\ antal
+comment1.target=OrdreLinje(Produkt,\ int)
+comment2.params=
+comment2.target=Produkt\ getProdukt()
+comment3.params=
+comment3.target=int\ getAntal()
+comment4.params=
+comment4.target=double\ getSubtotal()
+comment5.params=
+comment5.target=double\ beregnSubtotal()
+numComments=6

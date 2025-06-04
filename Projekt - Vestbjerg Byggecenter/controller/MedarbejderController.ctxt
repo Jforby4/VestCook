@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MedarbejderController
+comment1.params=
+comment1.target=MedarbejderController()
+comment2.params=medarbejderID
+comment2.target=model.Medarbejder\ findMedarbejder(int)
+numComments=3

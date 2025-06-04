@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=OrdreContainer
+comment1.params=
+comment1.target=OrdreContainer()
+comment2.params=
+comment2.target=OrdreContainer\ getInstance()
+comment3.params=o
+comment3.target=void\ tilfoejOrdre(Ordre)
+comment4.params=
+comment4.target=java.util.ArrayList\ getAlleOrdrer()
+comment5.params=ordreID
+comment5.target=Ordre\ findOrdre(int)
+numComments=6

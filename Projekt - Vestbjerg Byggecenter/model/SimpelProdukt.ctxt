@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SimpelProdukt
+comment1.params=navn\ pris\ lagerAntal\ barcode
+comment1.target=SimpelProdukt(java.lang.String,\ double,\ int,\ int)
+comment2.params=
+comment2.target=int\ getLagerAntal()
+comment3.params=lagerAntal
+comment3.target=void\ setLagerAntal(int)
+comment4.params=antal
+comment4.target=void\ reduceStock(int)
+numComments=5

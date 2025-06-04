@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Ordre
+comment1.params=
+comment1.target=Ordre()
+comment10.params=
+comment10.target=PrivatKunde\ getPrivatKunde()
+comment11.params=
+comment11.target=Medarbejder\ getMedarbejder()
+comment12.params=
+comment12.target=java.util.ArrayList\ getOrdreLinjer()
+comment2.params=ordreID\ status\ opretDato
+comment2.target=Ordre(int,\ java.lang.String,\ java.lang.String)
+comment3.params=ordrelinje
+comment3.target=void\ tilfoejOrdrelinje(OrdreLinje)
+comment4.params=
+comment4.target=double\ beregnTotalPris()
+comment5.params=kunde
+comment5.target=void\ setKunde(PrivatKunde)
+comment6.params=medarbejder
+comment6.target=void\ setMedarbejder(Medarbejder)
+comment7.params=
+comment7.target=int\ getOrdreID()
+comment8.params=
+comment8.target=java.lang.String\ getStatus()
+comment9.params=
+comment9.target=java.lang.String\ getOpretDato()
+numComments=13

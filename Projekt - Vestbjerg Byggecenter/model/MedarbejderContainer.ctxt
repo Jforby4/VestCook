@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MedarbejderContainer
+comment1.params=
+comment1.target=MedarbejderContainer()
+comment2.params=
+comment2.target=MedarbejderContainer\ getInstance()
+comment3.params=id
+comment3.target=Medarbejder\ getID(int)
+comment4.params=medarbejder
+comment4.target=void\ tilfoejMedarbejder(Medarbejder)
+numComments=5

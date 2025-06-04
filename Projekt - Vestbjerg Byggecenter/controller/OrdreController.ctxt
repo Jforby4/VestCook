@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=OrdreController
+comment1.params=
+comment1.target=OrdreController()
+comment2.params=
+comment2.target=void\ opretOrdre()
+comment3.params=tlfNr
+comment3.target=void\ tilfoejKunde(int)
+comment4.params=navn\ antal
+comment4.target=void\ tilfoejProdukt(java.lang.String,\ int)
+comment5.params=
+comment5.target=void\ bekraeftOrdre()
+comment6.params=
+comment6.target=double\ getTotalPris()
+numComments=7

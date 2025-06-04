@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Medarbejder
+comment1.params=rolle\ id\ navn
+comment1.target=Medarbejder(java.lang.String,\ int,\ java.lang.String)
+comment2.params=rolle\ id\ fornavn\ efternavn\ email\ tlfNr\ adresse
+comment2.target=Medarbejder(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getRolle()
+comment4.params=
+comment4.target=int\ getId()
+comment5.params=
+comment5.target=java.lang.String\ getNavn()
+comment6.params=rolle
+comment6.target=void\ setRolle(java.lang.String)
+numComments=7

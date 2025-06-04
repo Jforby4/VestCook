@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=KundeContainer
+comment1.params=
+comment1.target=KundeContainer()
+comment2.params=
+comment2.target=KundeContainer\ getInstance()
+comment3.params=tlfNr
+comment3.target=PrivatKunde\ getTlfNr(int)
+comment4.params=k
+comment4.target=void\ tilfoejKunde(PrivatKunde)
+comment5.params=
+comment5.target=java.util.ArrayList\ getAlleKunder()
+numComments=6

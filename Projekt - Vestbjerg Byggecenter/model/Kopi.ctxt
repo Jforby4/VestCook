@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Kopi
+comment1.params=produktNavn\ tilstand\ stelnummer
+comment1.target=Kopi(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getProduktNavn()
+comment3.params=
+comment3.target=java.lang.String\ getTilstand()
+comment4.params=
+comment4.target=int\ getStelnummer()
+comment5.params=
+comment5.target=java.lang.String\ getNavn()
+numComments=6

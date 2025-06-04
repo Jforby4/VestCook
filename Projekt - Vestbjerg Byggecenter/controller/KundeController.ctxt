@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=KundeController
+comment1.params=
+comment1.target=KundeController()
+comment2.params=tlfNr
+comment2.target=model.PrivatKunde\ findKunde(int)
+numComments=3

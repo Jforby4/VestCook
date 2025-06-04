@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SimpelProduktContainer
+comment1.params=
+comment1.target=SimpelProduktContainer()
+comment2.params=
+comment2.target=SimpelProduktContainer\ getInstance()
+comment3.params=navn
+comment3.target=SimpelProdukt\ findProdukt(java.lang.String)
+comment4.params=produkt
+comment4.target=void\ tilfoejProdukt(SimpelProdukt)
+comment5.params=
+comment5.target=java.util.ArrayList\ getAlleProdukter()
+numComments=6

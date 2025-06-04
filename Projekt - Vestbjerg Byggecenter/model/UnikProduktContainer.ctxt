@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=UnikProduktContainer
+comment1.params=
+comment1.target=UnikProduktContainer()
+comment2.params=
+comment2.target=UnikProduktContainer\ getInstance()
+comment3.params=navn
+comment3.target=Kopi\ findKopi(java.lang.String)
+comment4.params=produkt
+comment4.target=void\ tilfoejUnikProdukt(UnikProdukt)
+numComments=5

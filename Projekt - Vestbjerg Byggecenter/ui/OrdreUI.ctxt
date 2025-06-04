@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=OrdreUI
+comment1.params=
+comment1.target=OrdreUI()
+comment2.params=
+comment2.target=void\ medarbejderLogin()
+comment3.params=
+comment3.target=void\ visTilgaengeligeProdukter()
+comment4.params=
+comment4.target=void\ RunSystem()
+comment5.params=
+comment5.target=void\ lukScanner()
+numComments=6

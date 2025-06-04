@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ProduktController
+comment1.params=
+comment1.target=ProduktController()
+comment2.params=navn
+comment2.target=model.Produkt\ findProdukt(java.lang.String)
+comment3.params=barcode
+comment3.target=model.Produkt\ findProduktByBarcode(int)
+numComments=4
